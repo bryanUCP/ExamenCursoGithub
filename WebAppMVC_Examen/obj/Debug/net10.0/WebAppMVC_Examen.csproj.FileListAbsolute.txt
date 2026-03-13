@@ -21,7 +21,6 @@ D:\CURSO JIMMY GIT\Curso Dia 5\ExamenCursoGithub\WebAppMVC_Examen\obj\Debug\net1
 D:\CURSO JIMMY GIT\Curso Dia 5\ExamenCursoGithub\WebAppMVC_Examen\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\CURSO JIMMY GIT\Curso Dia 5\ExamenCursoGithub\WebAppMVC_Examen\obj\Debug\net10.0\scopedcss\bundle\WebAppMVC_Examen.styles.css
 D:\CURSO JIMMY GIT\Curso Dia 5\ExamenCursoGithub\WebAppMVC_Examen\obj\Debug\net10.0\scopedcss\projectbundle\WebAppMVC_Examen.bundle.scp.css
-D:\CURSO JIMMY GIT\Curso Dia 5\ExamenCursoGithub\WebAppMVC_Examen\obj\Debug\net10.0\compressed\s4pdo656qk-{0}-b9sayid5wm-b9sayid5wm.gz
 D:\CURSO JIMMY GIT\Curso Dia 5\ExamenCursoGithub\WebAppMVC_Examen\obj\Debug\net10.0\compressed\5njhhg12ua-{0}-61n19gt1b8-61n19gt1b8.gz
 D:\CURSO JIMMY GIT\Curso Dia 5\ExamenCursoGithub\WebAppMVC_Examen\obj\Debug\net10.0\compressed\m05dy4gu55-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
 D:\CURSO JIMMY GIT\Curso Dia 5\ExamenCursoGithub\WebAppMVC_Examen\obj\Debug\net10.0\compressed\p88nmfv0mq-{0}-bqjiyaj88i-bqjiyaj88i.gz
@@ -95,3 +94,5 @@ D:\CURSO JIMMY GIT\Curso Dia 5\ExamenCursoGithub\WebAppMVC_Examen\obj\Debug\net1
 D:\CURSO JIMMY GIT\Curso Dia 5\ExamenCursoGithub\WebAppMVC_Examen\obj\Debug\net10.0\WebAppMVC_Examen.pdb
 D:\CURSO JIMMY GIT\Curso Dia 5\ExamenCursoGithub\WebAppMVC_Examen\obj\Debug\net10.0\WebAppMVC_Examen.genruntimeconfig.cache
 D:\CURSO JIMMY GIT\Curso Dia 5\ExamenCursoGithub\WebAppMVC_Examen\obj\Debug\net10.0\ref\WebAppMVC_Examen.dll
+D:\CURSO JIMMY GIT\Curso Dia 5\ExamenCursoGithub\WebAppMVC_Examen\obj\Debug\net10.0\WebAppMVC_Examen.sourcelink.json
+D:\CURSO JIMMY GIT\Curso Dia 5\ExamenCursoGithub\WebAppMVC_Examen\obj\Debug\net10.0\compressed\s4pdo656qk-{0}-ujhck8i9h8-ujhck8i9h8.gz
